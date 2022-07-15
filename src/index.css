@@ -11,3 +11,25 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+p{
+  margin-bottom: 0;
+}
+.ContenedorTarea{
+  background-color:cornflowerblue;
+
+  margin: 2% 0%;
+  padding: 10px;
+  color: white;
+  border-radius: 10px;
+}
+.NoTask{
+  text-align: center;
+  margin-top: 20px;
+  font-size: 20px;
+}
+.buttonColor{
+  color: rgb(255, 255, 255);
+  background:#146c43;
+  padding: 5px 10px;
+  border-radius: 10px;
+}
